@@ -1,0 +1,33 @@
+path: data/placeFolder  # dataset root dir
+train: images/train/  # train images (relative to 'path') 128 images
+val: images/validation  # val images (relative to 'path') 128 images
+test:  # test images (optional)
+
+# Classes
+names:
+  0: besok
+  1: dia
+  2: guru
+  3: hai
+  4: jalan
+  5: kamu
+  6: tinggal
+  7: kasih
+  8: kemarin
+  9: kerja
+  10: lagi
+  11: maaf
+  12: makan
+  13: malas
+  14: marah
+  15:  mau
+  16: minum
+  17: pagi
+  18: pergi
+  19: pulang
+  20: rajin
+  21: rumah
+  22: saya
+  23: teman
+  24: terima
+
